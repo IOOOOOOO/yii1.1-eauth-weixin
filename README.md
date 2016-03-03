@@ -86,5 +86,5 @@
 ?></code>
 
 ###2. 显示效果
-![图片](./makedown-img/code.png =200x290 '二维码')
+![图片](./makedown-img/code.png '二维码')
 
